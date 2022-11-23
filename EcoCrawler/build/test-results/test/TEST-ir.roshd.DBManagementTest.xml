@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ir.roshd.DBManagementTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-02-24T11:35:01" hostname="roshd-HP-Compaq-Elite-8300-SFF" time="1.241">
+  <properties/>
+  <testcase name="saveArticles()" classname="ir.roshd.DBManagementTest" time="1.241"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[Feb 24, 2021 3:05:01 PM org.mongodb.morphia.logging.MorphiaLoggerFactory chooseLoggerFactory
+INFO: LoggerImplFactory set to org.mongodb.morphia.logging.jdk.JDKLoggerFactory
+Feb 24, 2021 3:05:02 PM com.mongodb.diagnostics.logging.JULLogger log
+INFO: Cluster created with settings {hosts=[127.0.0.1:27017], mode=SINGLE, requiredClusterType=UNKNOWN, serverSelectionTimeout='30000 ms', maxWaitQueueSize=500}
+Feb 24, 2021 3:05:02 PM com.mongodb.diagnostics.logging.JULLogger log
+INFO: Opened connection [connectionId{localValue:1, serverValue:68}] to 127.0.0.1:27017
+Feb 24, 2021 3:05:02 PM com.mongodb.diagnostics.logging.JULLogger log
+INFO: Monitor thread successfully connected to server with description ServerDescription{address=127.0.0.1:27017, type=STANDALONE, state=CONNECTED, ok=true, version=ServerVersion{versionList=[3, 6, 8]}, minWireVersion=0, maxWireVersion=6, maxDocumentSize=16777216, logicalSessionTimeoutMinutes=30, roundTripTimeNanos=2500350}
+Feb 24, 2021 3:05:02 PM com.mongodb.diagnostics.logging.JULLogger log
+INFO: Opened connection [connectionId{localValue:2, serverValue:69}] to 127.0.0.1:27017
+]]></system-err>
+</testsuite>

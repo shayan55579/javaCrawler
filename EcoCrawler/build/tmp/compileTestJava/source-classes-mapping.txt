@@ -1,0 +1,6 @@
+ir/roshd/ArticlePaginationTest.java
+ ir.roshd.ArticlePaginationTest
+ir/roshd/ArticleTest.java
+ ir.roshd.ArticleTest
+ir/roshd/DBManagementTest.java
+ ir.roshd.DBManagementTest

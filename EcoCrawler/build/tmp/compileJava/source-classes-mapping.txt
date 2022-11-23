@@ -1,0 +1,54 @@
+ir/roshd/cssQuery/FirstPaginationStyle.java
+ ir.roshd.cssQuery.FirstPaginationStyle
+ir/roshd/cssQuery/CommentStyle.java
+ ir.roshd.cssQuery.CommentStyle
+ir/roshd/log/ConsoleLog.java
+ ir.roshd.log.ConsoleLog
+ir/roshd/cssQuery/FirstCommentStyle.java
+ ir.roshd.cssQuery.FirstCommentStyle
+ir/roshd/log/Log.java
+ ir.roshd.log.Log
+ir/roshd/cssQuery/SecondPaginationStyle.java
+ ir.roshd.cssQuery.SecondPaginationStyle
+ir/roshd/cssQuery/FirstArticleStyle.java
+ ir.roshd.cssQuery.FirstArticleStyle
+ir/roshd/cssQuery/PaginationStyle.java
+ ir.roshd.cssQuery.PaginationStyle
+ir/roshd/log/Logger.java
+ ir.roshd.log.Logger
+ir/roshd/cssQuery/ArticleStyle.java
+ ir.roshd.cssQuery.ArticleStyle
+ir/roshd/dba/entities/Article.java
+ ir.roshd.dba.entities.Article
+ir/roshd/crawler/ParseArticle.java
+ ir.roshd.crawler.ParseArticle
+ir/roshd/miscellaneous/RandomSelector.java
+ ir.roshd.miscellaneous.RandomSelector
+ir/roshd/miscellaneous/OrderedSelector.java
+ ir.roshd.miscellaneous.OrderedSelector
+ir/roshd/crawler/AbstractParser.java
+ ir.roshd.crawler.AbstractParser
+ir/roshd/dba/entities/Category.java
+ ir.roshd.dba.entities.Category
+ir/roshd/crawler/ParseArticlePagination.java
+ ir.roshd.crawler.ParseArticlePagination
+ir/roshd/crawler/TimerForCrawler.java
+ ir.roshd.crawler.TimerForCrawler
+ir/roshd/miscellaneous/ProxyManagement.java
+ ir.roshd.miscellaneous.ProxyManagement
+ir/roshd/crawler/Crawler.java
+ ir.roshd.crawler.Crawler
+ir/roshd/dba/entities/Comment.java
+ ir.roshd.dba.entities.Comment
+ir/roshd/crawler/CrawlerManager.java
+ ir.roshd.crawler.CrawlerManager
+ir/roshd/miscellaneous/Selector.java
+ ir.roshd.miscellaneous.Selector
+ir/roshd/miscellaneous/UserAgentManagement.java
+ ir.roshd.miscellaneous.UserAgentManagement
+ir/roshd/crawler/ArticleCrawler.java
+ ir.roshd.crawler.ArticleCrawler
+ir/roshd/dba/DBManagement.java
+ ir.roshd.dba.DBManagement
+ir/roshd/Main.java
+ ir.roshd.Main
